@@ -11,7 +11,6 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 ![Built With Java](https://img.shields.io/badge/Built%20With-Java-red)
 ![Status](https://img.shields.io/badge/Playable-Yes-success)
 ![Responsive](https://img.shields.io/badge/Cross--Platform-Yes-blue)
-![License](https://img.shields.io/github/license/haimanm3/Endless-Runner-Game)
 
 ---
 
@@ -35,7 +34,6 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 | Packaging          | JAR File          |
 | Version Control    | Git + GitHub      |
 | Methodology        | Agile + Scrum     |
-| Project Management | Trello            |
 
 ---
 
@@ -45,5 +43,4 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 - **Professor Justin Port** – For mentorship and guidance throughout the course.
 - **Team Members** – For their collaboration, code contributions, and weekly standups that brought the game to life.
 - **Java Game Development Community** – For tutorials and resources that helped shape the foundation of the game's architecture.
-- **GitHub & Trello** – For enabling seamless version control and agile task management during development.
 - **Showcase Attendees** – For testing the game, providing feedback, and encouraging further development.
