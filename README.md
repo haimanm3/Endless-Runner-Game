@@ -38,7 +38,7 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 ## 🙌 Acknowledgments
 
 - **Rhode Island College (RIC)** – For providing the opportunity to develop and showcase this project as part of the Software Engineering Capstone.
-- **Professor Justin Port** – For mentorship and guidance throughout the course.
+- **Professor J. Port** – For mentorship and guidance throughout the course.
 - **Team Members** – For their collaboration, code contributions, and weekly standups that brought the game to life.
 - **Java Game Development Community** – For tutorials and resources that helped shape the foundation of the game's architecture.
 - **Showcase Attendees** – For testing the game, providing feedback, and encouraging further development.
