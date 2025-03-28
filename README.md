@@ -2,9 +2,9 @@
 
 A Java-based endless runner game developed as a Software Engineering Capstone project at Rhode Island College (RIC). Built in a team of four using Agile and Scrum methodologies, the game features dynamic obstacle generation, menu navigation, pause/resume functionality, and a score tracking system.
 
-> 🛠 Java is required on your computer to run the included `.jar` file.
-
 🎓 **Featured at the RIC Software Engineering Showcase**
+
+> 🛠 Java is required on your computer to run the included `.jar` file.
 
 ---
 
