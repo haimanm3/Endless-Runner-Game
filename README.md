@@ -6,11 +6,9 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 
 > 🛠 Java is required on your computer to run the included `.jar` file.
 
-
 ![Built With Java](https://img.shields.io/badge/Built%20With-Java-red)
 ![Status](https://img.shields.io/badge/Playable-Yes-success)
 ![Responsive](https://img.shields.io/badge/Cross--Platform-Yes-blue)
-
 
 ## 🚀 Features
 
@@ -32,6 +30,64 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 | Packaging          | JAR File          |
 | Version Control    | Git + GitHub      |
 | Methodology        | Agile + Scrum     |
+
+---
+
+## ▶️ How to Use
+
+Follow these steps to run the Tweey Bird endless runner game locally on your computer.
+
+---
+
+### 💻 Prerequisites
+
+- **Java** must be installed on your system (JDK 8 or later).
+- To check if Java is installed, open a terminal or command prompt and run:
+
+```bash
+java -version
+```
+
+If it's not installed, download it from:  
+👉 https://www.oracle.com/java/technologies/javase-downloads.html
+
+---
+
+### 📦 Step 1: Download the Game
+
+- Clone the repository or download it as a ZIP and extract it.
+- Inside the root folder, you’ll find a file named: `TweetyBird.jar`
+
+---
+
+### ▶️ Step 2: Run the Game
+
+1. Open a terminal or command prompt.
+2. Navigate to the folder containing the `.jar` file:
+
+```bash
+cd path/to/Endless-Runner-Game
+```
+
+3. Run the game with the following command:
+
+```bash
+java -jar TweetyBird.jar
+```
+
+> 💡 The game will open in a window. Use your keyboard to control the player and try to dodge obstacles for as long as possible!
+
+---
+
+### 🧯 Troubleshooting
+
+- **Nothing happens when I run the JAR?**
+  - Make sure you’re using the correct version of Java (JDK 8+).
+  - If the file doesn’t open on double-click, try running it via terminal with the command above.
+
+- **Performance issues?**
+  - Close other applications while running the game.
+  - Ensure your system is not blocking Java execution.
 
 ---
 
