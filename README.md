@@ -6,13 +6,11 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 
 > 🛠 Java is required on your computer to run the included `.jar` file.
 
----
 
 ![Built With Java](https://img.shields.io/badge/Built%20With-Java-red)
 ![Status](https://img.shields.io/badge/Playable-Yes-success)
 ![Responsive](https://img.shields.io/badge/Cross--Platform-Yes-blue)
 
----
 
 ## 🚀 Features
 
