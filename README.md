@@ -14,7 +14,7 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 
 ## 🚀 Features
 
-- 🎮 **Endless Runner Gameplay** – Randomized obstacles and infinite scrolling
+- 🎮 **Endless Runner Gameplay** – Randomized obstacles and infinite dynamic background scrolling
 - 🧠 **Basic AI Logic** – Dynamic difficulty progression based on score
 - ⏸️ **Pause & Resume** – Real-time game state control
 - 🏁 **Scoring System** – Tracks and displays high scores in-game
