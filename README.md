@@ -33,6 +33,21 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 
 ---
 
+## 🎮 Demo
+
+Here's a visual preview of the Endless Runner Game:
+
+<p align="center">
+  <img src="TweetyBird/demo%20images/welcome.png" alt="Welcome Screen" width="500"/>
+  &nbsp;&nbsp;
+  <img src="TweetyBird/demo%20images/gameover.png" alt="Game Over Screen" width="500"/>
+</p>
+
+- **Left:** Welcome screen and main menu interface.
+- **Right:** Game Over screen showing player’s score.
+
+---
+
 ## ▶️ How to Use
 
 Follow these steps to run the Tweey Bird endless runner game locally on your computer.
