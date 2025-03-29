@@ -1,4 +1,4 @@
-# 🕹️ Endless Runner Game
+# 🕹️ Endless Runner Game - Tweety Bird
 
 A Java-based endless runner game developed as a Software Engineering Capstone project at Rhode Island College (RIC). Built in a team of four using Agile and Scrum methodologies, the game features dynamic obstacle generation, menu navigation, pause/resume functionality, and a score tracking system.
 
@@ -35,12 +35,12 @@ A Java-based endless runner game developed as a Software Engineering Capstone pr
 
 ## 🎮 Demo
 
-Here's a visual preview of the Endless Runner Game:
+Here's a visual preview of Tweety Bird:
 
 <p align="center">
-  <img src="TweetyBird/demo%20images/welcome.png" alt="Welcome Screen" width="500"/>
+  <img src="TweetyBird/demo%20images/welcome.png" alt="Welcome Screen" width="400"/>
   &nbsp;&nbsp;
-  <img src="TweetyBird/demo%20images/gameover.png" alt="Game Over Screen" width="500"/>
+  <img src="TweetyBird/demo%20images/gameover.png" alt="Game Over Screen" width="400"/>
 </p>
 
 - **Left:** Welcome screen and main menu interface.
